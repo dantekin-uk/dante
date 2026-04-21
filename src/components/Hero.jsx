@@ -161,7 +161,7 @@ const Hero = () => {
                   <p className="text-white/30 text-[9px] font-medium uppercase tracking-[0.25em] mt-1">Years of Mastery</p>
                 </div>
                 <div className="text-center group">
-                  <p className="text-2xl lg:text-3xl font-bold text-white group-hover:text-rose-400 transition-colors duration-300">15+</p>
+                  <p className="text-2xl lg:text-3xl font-bold text-white group-hover:text-rose-400 transition-colors duration-300">10</p>
                   <p className="text-white/30 text-[9px] font-medium uppercase tracking-[0.25em] mt-1">Happy Partners</p>
                 </div>
                 <div className="text-center group">
