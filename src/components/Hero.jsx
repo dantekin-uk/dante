@@ -153,20 +153,20 @@ const Hero = () => {
             <div className={`mt-10 lg:mt-14 pt-2 motion-reduce:animate-none ${isLoaded ? 'animate-fade-up' : ''} [animation-delay:260ms]`}>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-4 items-center justify-items-center">
                 <div className="text-center group">
-                  <p className="text-2xl lg:text-3xl font-bold text-white group-hover:text-orange-400 transition-colors duration-300">50+</p>
+                  <p className="text-2xl lg:text-3xl font-bold text-white group-hover:text-orange-400 transition-colors duration-300">20+</p>
                   <p className="text-white/30 text-[9px] font-medium uppercase tracking-[0.25em] mt-1">Projects Delivered</p>
                 </div>
                 <div className="text-center group">
-                  <p className="text-2xl lg:text-3xl font-bold text-white group-hover:text-amber-400 transition-colors duration-300">08</p>
+                  <p className="text-2xl lg:text-3xl font-bold text-white group-hover:text-amber-400 transition-colors duration-300">3</p>
                   <p className="text-white/30 text-[9px] font-medium uppercase tracking-[0.25em] mt-1">Years of Mastery</p>
                 </div>
                 <div className="text-center group">
-                  <p className="text-2xl lg:text-3xl font-bold text-white group-hover:text-rose-400 transition-colors duration-300">30+</p>
+                  <p className="text-2xl lg:text-3xl font-bold text-white group-hover:text-rose-400 transition-colors duration-300">15+</p>
                   <p className="text-white/30 text-[9px] font-medium uppercase tracking-[0.25em] mt-1">Happy Partners</p>
                 </div>
                 <div className="text-center group">
-                  <p className="text-2xl lg:text-3xl font-bold text-white group-hover:text-orange-400 transition-colors duration-300">12</p>
-                  <p className="text-white/30 text-[9px] font-medium uppercase tracking-[0.25em] mt-1">Industry Awards</p>
+                  <p className="text-2xl lg:text-3xl font-bold text-white group-hover:text-orange-400 transition-colors duration-300">15+</p>
+                  <p className="text-white/30 text-[9px] font-medium uppercase tracking-[0.25em] mt-1">Clients Worked With</p>
                 </div>
               </div>
             </div>
